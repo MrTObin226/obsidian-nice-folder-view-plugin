@@ -1,0 +1,9 @@
+{
+  "id": "nice-folder-view-plugin",
+  "name": "Nice Folder Block View",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Displays folders in a block view",
+  "author": "mrtobin",
+  "isDesktopOnly": false
+}
